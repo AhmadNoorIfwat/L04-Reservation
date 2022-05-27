@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="header">Book your Reservation!</string>
+    <string name="hpNo">Hp No.:</string>
+    <string name="name">Name:</string>
+    <string name="grpSize">Grp Size:</string>
+    <string name="chooseDate">Choose Date</string>
+    <string name="chooseTime">Choose Timing</string>
+    <string name="resetBtn">Reset</string>
+    <string name="cfmReservation">Confirm</string>
+    <string name="dateDisplay">Date:</string>
+    <string name="timeDisplay">Time:</string>
+    <string name="cfmDate">Confirm Date</string>
+    <string name="cfmTime">Confirm Time</string>
+    <string-array name="noOfPpl_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
